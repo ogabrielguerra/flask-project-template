@@ -1,0 +1,6 @@
+**/.idea
+**vendor
+**/node_modules
+**/venv
+**/.DS_Store
+**/.pytest_cache
